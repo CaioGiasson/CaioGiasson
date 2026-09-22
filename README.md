@@ -22,7 +22,7 @@ I believe in technical solutions linked directly to concrete business indicators
 
 ### 🧰 Core Stack & Competencies
 
-* **Languages & Runtimes:** Node.js (TypeScript/JavaScript), Go, SQL, Elixir, PHP, Kotlin, Swift.
+* **Languages & Runtimes:** Node.js (TypeScript/JavaScript), SQL, Elixir, PHP, Kotlin, Swift.
 * **Backend & Architecture:** NestJS, Express, Clean Architecture, Design Patterns, Messaging & Queues (RabbitMQ, SQS, Kafka, Asynq), RESTful APIs, and enterprise/governmental integrations (SOAP/WSDL, SEFAZ).
 * **Databases:** PostgreSQL, MySQL, MariaDB, MongoDB.
 * **Cloud & Observability:** Google Cloud Platform (GCP), AWS, Docker, GitHub Actions, Datadog, Sentry, New Relic, Grafana, OpenTelemetry.
